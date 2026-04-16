@@ -577,6 +577,16 @@ function App() {
           </a>
         </p>
       </section>
+    <div
+      style={{
+      textAlign: "center",
+      padding: "20px",
+      color: "#94a3b8",
+      fontSize: "14px"
+  }}
+>
+      Cenk Zenginer • © 2026
+  </div>
     </div>
   );
 }
