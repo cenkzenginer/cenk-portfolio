@@ -1,16 +1,33 @@
-# React + Vite
+# 🚀 Cenk Zenginer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website showcasing my projects in AI, backend systems, and software development.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+👉 https://cenk-portfolio.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🧑‍💻 About
+This portfolio highlights my work in:
+- AI-powered applications
+- Backend development
+- Real-time data processing
+- Embedded systems (STM32)
 
-## React Compiler
+## 🛠️ Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Projects Included
+- AI Food Redistribution Platform  
+- Animal Tracking System (YOLO + STM32)  
+- Security Training Management Application  
 
-## Expanding the ESLint configuration
+## ⚙️ Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/cenkzenginer/cenk-portfolio.git
+cd cenk-portfolio
+npm install
+npm run dev
+
