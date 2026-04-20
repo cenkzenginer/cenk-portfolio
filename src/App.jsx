@@ -82,11 +82,6 @@ function App() {
             boxShadow: "0 10px 30px rgba(0,0,0,0.4)"
           }}
         />
-        <div className="profile-wrapper">
-          <img src="/Cenk-Vesikalık.jpeg" className="profile-normal" />
-          <img src="/Alien-Profile.png" className="profile-alien" />
-              </div>
-
         <h1
           style={{
             fontSize: "56px",
