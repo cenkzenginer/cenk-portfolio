@@ -70,7 +70,7 @@ function App() {
         }}
       >
         <img
-          src="/Cenk-Vesikalık.jpeg"
+          src="/vesikalık-ai.png"
           alt="Cenk profile"
           style={{
             width: "160px",
